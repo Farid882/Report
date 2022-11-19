@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="add">add</string>
+    <string name="enter_a_name">Enter a name</string>
+    <string name="high">Высокий</string>
+    <string name="middle">Средний</string>
+    <string name="low">Низкий</string>
+    <string name="save">СОХРАНИТЬ</string>
+</resources>
